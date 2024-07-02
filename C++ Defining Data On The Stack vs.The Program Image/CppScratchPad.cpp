@@ -11,7 +11,7 @@ void main()
 	myInt = 10;
 }
 
-void anotherFunction()
-{
-	myInt = 12341231;	// myInt can be here cause its global
-}
+//void anotherFunction()
+//{
+//	myInt = 12341231;	// myInt can be here cause its global
+//}
