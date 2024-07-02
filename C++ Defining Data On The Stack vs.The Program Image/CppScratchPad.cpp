@@ -10,3 +10,8 @@ void main()
 {
 	myInt = 10;
 }
+
+void anotherFunction()
+{
+
+}
