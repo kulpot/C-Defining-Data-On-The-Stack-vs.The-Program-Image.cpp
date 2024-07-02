@@ -6,6 +6,11 @@ using std::endl;
 
 int myInt; //this is same as static int, global to anything, 4bytes int
 
+void anotherFunction()
+{
+	myInt = 12341231;
+}
+
 void main()
 {
 	myInt = 10;
