@@ -14,6 +14,7 @@ void anotherFunction()
 void main()
 {
 	myInt = 10;
+	cout << myInt << endl;
 }
 
 //void anotherFunction()
