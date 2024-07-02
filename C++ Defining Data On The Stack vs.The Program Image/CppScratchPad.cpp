@@ -13,5 +13,5 @@ void main()
 
 void anotherFunction()
 {
-
+	myInt = 12341231;	// myInt can be here cause its global
 }
