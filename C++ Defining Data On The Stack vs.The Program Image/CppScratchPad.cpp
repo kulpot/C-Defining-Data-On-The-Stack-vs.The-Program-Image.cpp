@@ -8,5 +8,5 @@ int myInt; //this is same as static int, global to anything, 4bytes int
 
 void main()
 {
-
+	myInt = 10;
 }
