@@ -6,7 +6,7 @@ using std::endl;
 
 void main()
 {
-	int myInt;
+	int myInt;	// this is in the stack
 	cout << myInt << endl;
 	myInt = 10;
 }
