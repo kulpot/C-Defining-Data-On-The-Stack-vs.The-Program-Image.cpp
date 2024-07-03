@@ -3,10 +3,11 @@ using std::cout;
 using std::endl;
 
 //C++ - Defining Data On The Stack vs. The Program Image   //ref link:https://www.youtube.com/watch?v=mDx7YspeCqw&list=PLRwVmtr-pp04StYuWs0n765aXyrlL2kl1&index=2
+// Types of memory:	Main(The Heap, The Stack), The Program image(everything thats not define in a function)
 
 void main()
 {
-	int myInt;	// this is in the stack
+	int myInt;	// (runtime)this variable is in the stack
 	cout << myInt << endl;
 	myInt = 10;
 }
