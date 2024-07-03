@@ -13,7 +13,8 @@ void anotherFunction()
 
 void main()
 {
-
+	cout << myInt << endl;
+	myInt = 10;
 
 
 
