@@ -17,7 +17,7 @@ void main()
 	myInt = 10;
 	cout << myInt << endl;		// output:10
 	anotherFunction();
-	cout << myInt << endl;
+	cout << myInt << endl;		// output:12341231
 }
 
 //void anotherFunction()
