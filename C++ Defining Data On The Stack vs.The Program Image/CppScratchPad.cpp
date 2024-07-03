@@ -13,11 +13,16 @@ void anotherFunction()
 
 void main()
 {
-	cout << myInt << endl;		// output:0
-	myInt = 10;
-	cout << myInt << endl;		// output:10
-	anotherFunction();
-	cout << myInt << endl;		// output:12341231
+
+
+
+
+
+	//cout << myInt << endl;		// output:0
+	//myInt = 10;
+	//cout << myInt << endl;		// output:10
+	//anotherFunction();
+	//cout << myInt << endl;		// output:12341231
 }
 
 //void anotherFunction()
