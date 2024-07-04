@@ -5,6 +5,11 @@ using std::endl;
 //C++ - Defining Data On The Stack vs. The Program Image   //ref link:https://www.youtube.com/watch?v=mDx7YspeCqw&list=PLRwVmtr-pp04StYuWs0n765aXyrlL2kl1&index=2
 // Types of memory:	Main(The Heap, The Stack), The Program image(outside scope of main/everything thats not define in a function/or instantiated via new out of the heap)
 
+class IntHolder
+{
+
+};
+
 void main()
 {
 	int myInt;	// (runtime)this variable is in the stack
