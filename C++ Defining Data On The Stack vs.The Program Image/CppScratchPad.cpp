@@ -14,6 +14,7 @@ struct IntHolder
 
 void main()
 {
+	IntHolder holder;
 	//int myInt;	// (runtime)this variable is in the stack
 	cout << myInt << endl;
 }
