@@ -9,7 +9,6 @@ void main()
 {
 	int myInt;	// (runtime)this variable is in the stack
 	cout << myInt << endl;
-	myInt = 10;
 }
 
 
