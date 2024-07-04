@@ -9,6 +9,7 @@ struct IntHolder
 {
 	int myInt1;
 	int myInt2;
+	double myDouble;
 };
 
 void main()
