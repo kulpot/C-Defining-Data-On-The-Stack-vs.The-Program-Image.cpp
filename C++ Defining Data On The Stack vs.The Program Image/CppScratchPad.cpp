@@ -7,7 +7,8 @@ using std::endl;
 
 struct IntHolder
 {
-	int myInt;
+	int myInt1;
+	int myInt2;
 };
 
 void main()
