@@ -7,12 +7,12 @@ using std::endl;
 
 class IntHolder
 {
-
+	int myInt;
 };
 
 void main()
 {
-	int myInt;	// (runtime)this variable is in the stack
+	//int myInt;	// (runtime)this variable is in the stack
 	cout << myInt << endl;
 }
 
