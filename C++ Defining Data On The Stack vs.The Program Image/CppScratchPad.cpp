@@ -16,7 +16,7 @@ IntHolder holder;	// output: everything is 0
 
 void main()
 {
-	//IntHolder holder;	// error not initialize or output is data garbage(not deleted)
+	//IntHolder holder;	// error not initialize or output is data garbage(not deleted) 
 	cout << holder.myInt1 << endl;		//output:16855076
 	cout << holder.myInt2 << endl;		//output:0
 	cout << holder.myDouble << endl;	//1.40/463+222
