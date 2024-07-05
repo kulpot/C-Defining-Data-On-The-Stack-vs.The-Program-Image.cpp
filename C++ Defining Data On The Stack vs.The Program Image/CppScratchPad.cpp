@@ -17,7 +17,7 @@ void main()
 	IntHolder holder;
 	cout << holder.myInt1 << endl;		//output:16855076
 	cout << holder.myInt2 << endl;		//output:0
-	cout << holder.myDouble << endl;
+	cout << holder.myDouble << endl;	//1.40/463+222
 
 	//int myInt;	// (runtime)this variable is in the stack
 	//cout << myInt << endl;
