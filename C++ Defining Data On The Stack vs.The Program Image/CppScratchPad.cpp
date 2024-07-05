@@ -12,7 +12,7 @@ struct IntHolder
 	double myDouble;
 };
 
-IntHolder holder;
+IntHolder holder;	// output: everything is 0
 
 void main()
 {
