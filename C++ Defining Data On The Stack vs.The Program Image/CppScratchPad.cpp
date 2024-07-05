@@ -15,8 +15,8 @@ struct IntHolder
 void main()
 {
 	IntHolder holder;
-	cout << holder.myInt1 << endl;
-	cout << holder.myInt2 << endl;
+	cout << holder.myInt1 << endl;		//output:16855076
+	cout << holder.myInt2 << endl;		//output:0
 	cout << holder.myDouble << endl;
 
 	//int myInt;	// (runtime)this variable is in the stack
