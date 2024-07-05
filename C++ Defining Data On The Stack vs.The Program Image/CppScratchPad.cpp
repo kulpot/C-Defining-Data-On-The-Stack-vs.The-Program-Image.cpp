@@ -12,9 +12,11 @@ struct IntHolder
 	double myDouble;
 };
 
+IntHolder holder;
+
 void main()
 {
-	IntHolder holder;
+	//IntHolder holder;
 	cout << holder.myInt1 << endl;		//output:16855076
 	cout << holder.myInt2 << endl;		//output:0
 	cout << holder.myDouble << endl;	//1.40/463+222
