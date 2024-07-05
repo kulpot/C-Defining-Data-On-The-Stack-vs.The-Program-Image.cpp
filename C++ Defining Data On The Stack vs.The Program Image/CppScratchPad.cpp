@@ -16,6 +16,7 @@ void main()
 {
 	IntHolder holder;
 	cout << holder.myInt1 << endl;
+	cout << holder.myInt2 << endl;
 
 	//int myInt;	// (runtime)this variable is in the stack
 	//cout << myInt << endl;
